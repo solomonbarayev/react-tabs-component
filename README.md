@@ -1,3 +1,6 @@
-#### IN ACTION
+## React tabs component
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+Display different tabs on browser using React technology.
+Displays information based on the tabs that is selected.
+
+### Developer: Solomon Barayev
